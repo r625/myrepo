@@ -1,2 +1,2 @@
 # myrepo
-added a second line
+added a second line.
